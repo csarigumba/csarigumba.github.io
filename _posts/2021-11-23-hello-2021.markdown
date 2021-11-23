@@ -1,0 +1,19 @@
+---
+layout: post
+title: 'Hello 2021'
+subtitle: ' "Hello World, Hello Blog"'
+date: 2021-11-23 23:00:00
+author: 'Ced'
+header-img: 'img/post-bg-2015.jpg'
+catalog: true
+tags:
+  - Random
+  - Meta
+---
+
+> “Yeah It's on. ”
+
+Just a sample blog...
+Will surely create blog posts soon...
+
+—— Ced 2021.11
