@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: cediesarigumba@gmail.com
 description: 'What is my description?'
 keyword: 'Stoic, Stoicism, Software Engineer, AWS, Java, Spring, NodeJs, Web, JavaScript'
-url: 'https://cedricsarigumba.me' # your host, for absolute URL
+url: 'https://csarigumba.me' # your host, for absolute URL
 baseurl: '' # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -48,7 +48,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: cedricsarigumba
 
 # Netease settings
 netease_comment: false
