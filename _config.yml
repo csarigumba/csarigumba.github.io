@@ -48,7 +48,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: cedricsarigumba
+# disqus_username: cedricsarigumba
 
 # Netease settings
 netease_comment: false
